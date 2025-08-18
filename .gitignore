@@ -28,6 +28,5 @@ env/
 .vscode/
 
 asl_alphabet_train/
-*.h5
 
 
