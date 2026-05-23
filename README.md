@@ -75,7 +75,7 @@ flowchart TD
 *Letter "L" detected. After capturing "LI", the model suggests "libratory".*
 
 ### Word Auto-Complete + Final Message in Terminal
-<img width="416" height="305" alt="Screenshot 2026-05-24 at 12 19 22 AM" src="https://github.com/user-attachments/assets/f2e2031e-840c-46a1-9a9a-986c9f424581" />
+<img width="483" height="305" alt="Screenshot 2026-05-24 at 12 19 22 AM" src="https://github.com/user-attachments/assets/f2e2031e-840c-46a1-9a9a-986c9f424581" />
 <img width="483" height="305" alt="Screenshot 2026-05-24 at 12 23 20 AM" src="https://github.com/user-attachments/assets/47ab7003-c7f3-4199-89dd-c2fa191850ba" />
 
 *Press `P` to auto-complete the word. Final message is printed in the terminal.*
@@ -239,4 +239,4 @@ asl-detection/
 
 ---
 
-*Built by Het Shingala (22BIT014) — Pandit Deendayal Energy University*
+*Built by Het Shingala <3*
